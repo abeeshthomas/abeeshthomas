@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SDK Documentation**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/abeeshthomas](linkedin.com/in/abeeshthomas)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/technical-writingservices/portfolio](https://sites.google.com/view/technical-writingservices/portfolio)
 
 - 📝 I regularly write articles on [technicalwritingsingapore.blogspot.com](technicalwritingsingapore.blogspot.com)
 
