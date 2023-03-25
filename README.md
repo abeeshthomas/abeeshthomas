@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeesh Thomas</h1>
 <h3 align="center">Senior Technical Writer</h3>
 
-- 🔭 I’m currently working on **SDK Documentation**
+- 🔭 I’m currently working on **Wealth Management Documentation**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/technical-writingservices/portfolio](https://sites.google.com/view/technical-writingservices/portfolio)
 
